@@ -31,4 +31,7 @@ fun Kop(){
     println(x) // 11
     ++y
     println(y) // 11
+
+    var z: Boolean = (x == y)
+    println(z)
 }
